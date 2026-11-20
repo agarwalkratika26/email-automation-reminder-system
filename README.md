@@ -383,15 +383,13 @@ npx next build
 
 ## Screenshots
 
-Screenshots and architecture diagrams are stored in the `images/` directory. After adding screenshots, they can be referenced in this README as follows:
+Add your application screenshots to the `images/` folder using the filenames below. Once added, GitHub will render them directly in this section.
 
-```markdown
 ![Dashboard Overview](images/dashboard_overview.png)
-![Campaign Creation](images/campaign_creation.png)
-![Send History](images/send_history.png)
-```
 
-The `images/` directory is included in the repository. Add your screenshots there and update this section with the appropriate filenames.
+![Campaign Creation](images/campaign_creation.png)
+
+![Send History and Audit](images/send_history.png)
 
 ---
 
