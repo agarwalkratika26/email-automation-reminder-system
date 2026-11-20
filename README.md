@@ -383,13 +383,40 @@ npx next build
 
 ## Screenshots
 
-Add your application screenshots to the `images/` folder using the filenames below. Once added, GitHub will render them directly in this section.
+### Web Dashboard Interface
 
-![Dashboard Overview](images/dashboard_overview.png)
+#### 1. Dashboard Overview and Metrics
+![Dashboard Overview](images/web%20interface/interafce1.png)
 
-![Campaign Creation](images/campaign_creation.png)
+#### 2. Contact Directory and CSV Validation
+![Contact Directory](images/web%20interface/interface%202.png)
 
-![Send History and Audit](images/send_history.png)
+#### 3. Campaign Scheduling and Live Template Preview
+![Campaign Scheduling](images/web%20interface/interface%203.png)
+
+#### 4. Personal and Team Reminders Management
+![Reminders Management](images/web%20interface/interface%204.png)
+
+#### 5. Send History and Delivery Audit Log
+![Send History](images/web%20interface/interface5.png)
+
+#### 6. Compliance and Activity CSV Reports
+![Report Downloads](images/web%20interface/interface%206.png)
+
+### System Execution and Verification
+
+#### System Overview and Terminal Activity
+![System Execution View 1](images/github/Screenshot%202026-11-21%20025718.png)
+
+![System Execution View 2](images/github/Screenshot%202026-11-21%20025731.png)
+
+![System Execution View 3](images/github/Screenshot%202026-11-21%20025745.png)
+
+![System Execution View 4](images/github/Screenshot%202026-11-21%20025806.png)
+
+![System Execution View 5](images/github/Screenshot%202026-11-21%20025819.png)
+
+![System Execution View 6](images/github/Screenshot%202026-11-21%20025836.png)
 
 ---
 
