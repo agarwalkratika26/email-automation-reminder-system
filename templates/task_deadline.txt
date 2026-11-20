@@ -1,0 +1,13 @@
+Subject: Action Required: Task Deadline Approaching for {name}
+
+Hello {name},
+
+This is a timely notification that an assigned project deliverable for the {department} department at {company} is nearing its deadline.
+
+Please review your open deliverables, update your progress status, or reach out to your team lead if you anticipate any blockers.
+
+Thank you for your diligence!
+
+Best regards,
+Project Management Office
+{company}

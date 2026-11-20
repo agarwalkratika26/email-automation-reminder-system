@@ -1,0 +1,8 @@
+reminder_id,title,description,owner,team,priority,due_time,recurrence,status,last_notified_at,created_at
+7,Daily Standup Sync,Quick 15-minute sync on blockers and daily deliverables.,Alice Johnson,Operations,low,2026-11-21T09:15:00,daily,pending,,2026-11-20T19:25:17.114913
+5,Marketing Content Editorial Sync,Plan social media and newsletter calendar for upcoming product updates.,Franklin Wright,Marketing,medium,2026-11-22T11:00:00,weekly,pending,,2026-11-20T19:25:17.114910
+2,Team Sprint Planning,"Review backlog, allocate story points, and commit to sprint sprint goals.",Bob Smith,Engineering,high,2026-11-23T10:00:00,weekly,pending,,2026-11-20T19:25:17.114905
+4,Submit Bi-Weekly Vendor Invoices,Review submitted vendor invoices against purchase orders and route for signoff.,Elena Rostova,Logistics,high,2026-11-24T16:00:00,weekly,pending,,2026-11-20T19:25:17.114908
+1,Prepare Q3 Financial Review,Consolidate budget spreadsheets and variance reports for executive review.,David Miller,Finance,high,2026-11-25T14:00:00,monthly,pending,,2026-11-20T19:25:17.114901
+3,Conduct Monthly HR Safety Check,Verify workplace ergonomic standards and fire safety protocols.,Carol Danvers,Human Resources,medium,2026-11-28T09:30:00,monthly,pending,,2026-11-20T19:25:17.114907
+6,Annual IT Security Audit,"Audit IAM policies, revoke stale credentials, and review MFA compliance.",Grace Hopper,R&D,urgent,2026-12-01T08:00:00,one-off,pending,,2026-11-20T19:25:17.114911

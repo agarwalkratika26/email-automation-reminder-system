@@ -1,0 +1,16 @@
+Subject: Welcome to the Team, {name}!
+
+Hi {name},
+
+We are thrilled to welcome you to {company}! As our new {role} in the {department} team, we look forward to the impact you will make.
+
+Here are a few quick onboarding steps to get you started:
+1. Complete your account setup in the employee portal.
+2. Join our company Slack workspace and say hello.
+3. Check your calendar for your team intro session scheduled for tomorrow.
+
+If you have any questions, feel free to reply directly to this message.
+
+Best regards,
+People Operations Team
+{company}

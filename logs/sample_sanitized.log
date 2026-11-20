@@ -1,0 +1,12 @@
+2026-11-21 00:00:01,000 [INFO] [email_automation.worker] Starting Email Automation Worker (Polling interval: 5s, Dry Run Mode: True)
+2026-11-21 00:00:01,050 [INFO] [email_automation.worker] Found 0 stale 'processing' records.
+2026-11-21 00:00:01,100 [INFO] [email_automation.worker] Processing due Campaign #1: 'Q4 Welcome & Onboarding Wave' (Recurrence: one-off)
+2026-11-21 00:00:01,150 [INFO] [email_automation.delivery] [SIMULATION] Sending email to 'Alice Johnson' <alice.johnson@acmecorp.fake> | Subject: 'Welcome to the Team, Alice Johnson!'
+2026-11-21 00:00:01,160 [INFO] [email_automation.worker] SendRecord #1 for alice.johnson@acmecorp.fake -> SIMULATED (Attempt 1)
+2026-11-21 00:00:01,170 [INFO] [email_automation.delivery] [SIMULATION] Sending email to 'Bob Smith' <bob.smith@innovatech.fake> | Subject: 'Welcome to the Team, Bob Smith!'
+2026-11-21 00:00:01,180 [INFO] [email_automation.worker] SendRecord #2 for bob.smith@innovatech.fake -> SIMULATED (Attempt 1)
+2026-11-21 00:00:01,190 [INFO] [email_automation.delivery] [SIMULATION] Sending email to 'Carol Danvers' <carol.danvers@apexsolutions.fake> | Subject: 'Welcome to the Team, Carol Danvers!'
+2026-11-21 00:00:01,200 [INFO] [email_automation.worker] SendRecord #3 for carol.danvers@apexsolutions.fake -> SIMULATED (Attempt 1)
+2026-11-21 00:00:01,210 [INFO] [email_automation.delivery] [SIMULATION] Sending email to 'David Miller' <david.miller@starlightventures.fake> | Subject: 'Welcome to the Team, David Miller!'
+2026-11-21 00:00:01,220 [INFO] [email_automation.worker] SendRecord #4 for david.miller@starlightventures.fake -> SIMULATED (Attempt 1)
+2026-11-21 00:00:01,230 [INFO] [email_automation.worker] Cycle completed: {'emails_processed': 4, 'reminders_processed': 0}

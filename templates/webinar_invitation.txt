@@ -1,0 +1,17 @@
+Subject: Exclusive Invitation: Next-Gen Automation Insights for {company}
+
+Hi {name},
+
+As a valued leader at {company}, we invite you to attend our upcoming executive briefing: "Scaling Productivity with Python Automation & Workflows".
+
+Featured Session Details:
+- Target Role: {role}
+- Departmental Focus: {department}
+- Duration: 45 minutes + live Q&A
+
+Seats are limited to ensure interactive group discussions. Please click below to reserve your virtual seat.
+
+We hope to see you there!
+
+Best regards,
+Industry Relations Team

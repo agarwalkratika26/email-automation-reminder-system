@@ -1,0 +1,8 @@
+title,description,due_time,owner,team,recurrence,priority
+Prepare Q3 Financial Review,"Consolidate budget spreadsheets and variance reports for executive review.",2026-11-25T14:00:00Z,David Miller,Finance,monthly,high
+Team Sprint Planning,"Review backlog, allocate story points, and commit to sprint sprint goals.",2026-11-23T10:00:00Z,Bob Smith,Engineering,weekly,high
+Conduct Monthly HR Safety Check,"Verify workplace ergonomic standards and fire safety protocols.",2026-11-28T09:30:00Z,Carol Danvers,Human Resources,monthly,medium
+Submit Bi-Weekly Vendor Invoices,"Review submitted vendor invoices against purchase orders and route for signoff.",2026-11-24T16:00:00Z,Elena Rostova,Logistics,weekly,high
+Marketing Content Editorial Sync,"Plan social media and newsletter calendar for upcoming product updates.",2026-11-22T11:00:00Z,Franklin Wright,Marketing,weekly,medium
+Annual IT Security Audit,"Audit IAM policies, revoke stale credentials, and review MFA compliance.",2026-12-01T08:00:00Z,Grace Hopper,R&D,one-off,urgent
+Daily Standup Sync,"Quick 15-minute sync on blockers and daily deliverables.",2026-11-21T09:15:00Z,Alice Johnson,Operations,daily,low

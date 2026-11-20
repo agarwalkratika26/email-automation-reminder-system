@@ -1,0 +1,17 @@
+Subject: Action Required: Monthly Statement & Payment Notice for {company}
+
+Dear {name},
+
+This is an automated notice regarding the latest monthly statement for {company}.
+
+Account Contact: {name}
+Department: {department}
+Status: Statement Ready for Review
+
+Please log in to your vendor portal account to review the attached itemized breakdown and remit payment before the due date to ensure uninterrupted services.
+
+If you have already processed this payment, please disregard this reminder.
+
+Sincerely,
+Accounts Receivable & Billing
+{company}

@@ -1,0 +1,5 @@
+record_id,campaign_id,campaign_title,template_name,recipient_name,recipient_email,subject,status,delivery_mode,attempt_count,last_attempt_at,completed_at,error_detail
+4,1,Q4 Welcome & Onboarding Wave,welcome_onboarding.txt,David Miller,david.miller@starlightventures.fake,"Welcome to the Team, David Miller!",simulated,simulation,1,2026-11-20T19:25:17.217408,2026-11-20T19:25:17.226185,
+3,1,Q4 Welcome & Onboarding Wave,welcome_onboarding.txt,Carol Danvers,carol.danvers@apexsolutions.fake,"Welcome to the Team, Carol Danvers!",simulated,simulation,1,2026-11-20T19:25:17.201073,2026-11-20T19:25:17.208946,
+2,1,Q4 Welcome & Onboarding Wave,welcome_onboarding.txt,Bob Smith,bob.smith@innovatech.fake,"Welcome to the Team, Bob Smith!",simulated,simulation,1,2026-11-20T19:25:17.182033,2026-11-20T19:25:17.191239,
+1,1,Q4 Welcome & Onboarding Wave,welcome_onboarding.txt,Alice Johnson,alice.johnson@acmecorp.fake,"Welcome to the Team, Alice Johnson!",simulated,simulation,1,2026-11-20T19:25:17.159787,2026-11-20T19:25:17.171847,
