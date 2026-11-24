@@ -45,4 +45,4 @@ def init_db():
     """
     # Import models here to register metadata with Base before create_all
     import src.email_automation.storage.models  # noqa: F401
-    Base.metadata.create_all(bind=engine)
+    Base.metadata.create_all(bind=engine, checkfirst=True)
