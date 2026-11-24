@@ -36,11 +36,12 @@ def create_app() -> FastAPI:
     )
 
     # Cross-Origin Resource Sharing (CORS) Configuration
-    # Strictly restricted to local dashboard origins; credentials disabled as tokens/cookies are not used.
-    allowed_origins = [
+    # Supports local development origins as well as any configured in settings/env (or wildcard)
+    allowed_origins = list(set([
         f"http://localhost:{settings.FRONTEND_PORT}",
         f"http://127.0.0.1:{settings.FRONTEND_PORT}",
-    ]
+        *(settings.ALLOWED_ORIGINS or []),
+    ]))
 
     app.add_middleware(
         CORSMiddleware,

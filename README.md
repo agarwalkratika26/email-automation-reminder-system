@@ -1,5 +1,8 @@
 # Email Automation and Reminder System
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/agarwalkratika26/email-automation-reminder-system)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/agarwalkratika26/email-automation-reminder-system&root-directory=frontend)
+
 A local Python application for scheduling and managing one-off or recurring email campaigns and personal or team reminders. Built with FastAPI, Next.js, and SQLite as a student portfolio project suitable for Python Developer, Automation Engineer, Operations, HR, and Business Productivity roles.
 
 The system operates in **Simulation Mode** by default. All emails are personalized, validated, scheduled, and recorded with full audit trails without requiring an email account or sending real emails. Live SMTP delivery is available as an optional, explicitly configured mode.

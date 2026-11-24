@@ -1,0 +1,45 @@
+version: '3.8'
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: email_automation_api
+    ports:
+      - "8000:8000"
+    environment:
+      - DRY_RUN=true
+      - API_HOST=0.0.0.0
+      - API_PORT=8000
+      - ALLOWED_ORIGINS=["http://localhost:3000","http://127.0.0.1:3000"]
+    volumes:
+      - ./email_automation.db:/app/email_automation.db
+      - ./logs:/app/logs
+      - ./outputs:/app/outputs
+
+  worker:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: email_automation_worker
+    command: python -m src.email_automation.scheduler.worker
+    environment:
+      - DRY_RUN=true
+    volumes:
+      - ./email_automation.db:/app/email_automation.db
+      - ./logs:/app/logs
+    depends_on:
+      - api
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: email_automation_frontend
+    ports:
+      - "3000:3000"
+    environment:
+      - NEXT_PUBLIC_API_URL=http://localhost:8000/api
+    depends_on:
+      - api
