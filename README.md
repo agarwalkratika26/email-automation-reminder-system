@@ -1,5 +1,6 @@
 # Email Automation and Reminder System
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=https://github.com/agarwalkratika26/email-automation-reminder-system&branch=main&mainModule=streamlit_app.py)
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/agarwalkratika26/email-automation-reminder-system)
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/agarwalkratika26/email-automation-reminder-system&root-directory=frontend)
 
